@@ -109,7 +109,7 @@ const Header = () => {
                     {/* Mobile icon end */}
                 </div>
             </Wrapper>
-            <Home/>
+            
         </header>
          
     );
